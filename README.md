@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibebenedict6
+- 👋 Hi, I’m @BenedictIbe
 - 👀 I’m interested in Data Analysis, Machine Learning, Artificial Intelligence, Data visualization, SQL
 - 🌱 I’m currently learning Big data, Python
 - 💞️ I’m looking to collaborate on Data analysis, Data Modeling, Data Management, Data Visualization
